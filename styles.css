@@ -1,0 +1,28 @@
+img {
+    display: block;
+    padding: 20px;
+    background-color: cadetblue;
+    border-radius: 100px;
+    margin: 10px;
+}
+
+a {
+    display: block;
+    padding: 20px;
+    background-color: coral;
+    font-size: 25px;
+    padding-left: 100px;
+    border-radius: 20px;
+    margin: 10px;
+    border: dotted 5px rgba(255, 194, 80, 0.699);
+}
+
+h1 {
+    background-color: hsl(208, 100%, 75%);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+body {
+    background-color: antiquewhite;
+}
